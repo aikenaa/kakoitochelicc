@@ -4,3 +4,6 @@ function sayHi () {
 function sayBye() {
     alert('Red Apples');
 }
+function Aiken() {
+    alert('Adi');
+}
