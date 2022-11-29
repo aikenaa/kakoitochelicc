@@ -7,3 +7,6 @@ function sayBye() {
 function Aiken() {
     alert('Adi');
 }
+function Aikena(Adi) {
+    alert('kakoitochelicc');
+}
