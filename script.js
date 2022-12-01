@@ -6,6 +6,7 @@ function sayBye() {
 }
 function Aiken() {
     alert('Adi');
+    // ...work...
 }
 function Aikena(Adi) {
     alert('kakoitochelicc');
