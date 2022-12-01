@@ -9,5 +9,8 @@ function Aiken() {
     // ...work...
 }
 function Aikena(Adi) {
-    alert('kakoitochelicc');
+    alert('kakoitochelicc')
+}
+function WLD_EXPERIMENTS(paras) {
+    alert('kakoi')
 }
